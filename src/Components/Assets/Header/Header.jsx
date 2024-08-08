@@ -1,0 +1,20 @@
+import React from 'react';
+import Github from '../images/github.png';
+import './Header.css';
+
+function Header() {
+    return (
+        <div id='header'>
+            <h1>Neal Fernandez</h1>
+            <h3>Web Developer in Training</h3>
+            <p>
+                I am a quick and eager learner who enjoys trying<br/>
+                new things and isn't afraid to fail. When I do fail,<br/> 
+                I own up to it, learn, and adapt.
+            </p>
+            <a href="https://github.com/NealFernandezDev" target="_blank" rel="noreferrer"><img src={Github} alt="Github"/></a>
+        </div>
+    );
+}
+
+export default Header;
