@@ -92,8 +92,7 @@
   border-radius: 50px;
   padding: 5px 12px 5px 12px;
   text-decoration: none;
-  margin-left: 3px;
-  margin-right: 3px;
+  margin: 3px;
 }
 
 /* Grillaire SCSS */
@@ -107,8 +106,7 @@
   border-radius: 50px;
   padding: 5px 12px 5px 12px;
   text-decoration: none;
-  margin-left: 3px;
-  margin-right: 3px;
+  margin: 3px;
 }
 
 /* Grillaire Javascript */
@@ -122,8 +120,7 @@
   border-radius: 50px;
   padding: 5px 12px 5px 12px;
   text-decoration: none;
-  margin-left: 3px;
-  margin-right: 3px;
+  margin: 3px;
 }
 
 /* Grillaire Vercel */
@@ -137,8 +134,63 @@
   border-radius: 50px;
   padding: 5px 12px 5px 12px;
   text-decoration: none;
-  margin-left: 3px;
-  margin-right: 3px;
+  margin: 3px;
+}
+
+/* Grillaire Gimp */
+#grillaire-text #gimp {
+  font-family: Arial;
+  color: #4fc3b6;
+  font-size: 14px;
+  font-weight: bold;
+  background: #122b39;
+  border: none;
+  border-radius: 50px;
+  padding: 5px 12px 5px 12px;
+  text-decoration: none;
+  margin: 3px;
+}
+
+/* Grillaire Chatgpt */
+#grillaire-text #chatgpt {
+  font-family: Arial;
+  color: #4fc3b6;
+  font-size: 14px;
+  font-weight: bold;
+  background: #122b39;
+  border: none;
+  border-radius: 50px;
+  padding: 5px 12px 5px 12px;
+  text-decoration: none;
+  margin: 3px;
+}
+
+/* Grillaire IMAGECOLORPICKER */
+#grillaire-text #imagecolorpicker {
+  font-family: Arial;
+  color: #4fc3b6;
+  font-size: 14px;
+  font-weight: bold;
+  background: #122b39;
+  border: none;
+  border-radius: 50px;
+  padding: 5px 12px 5px 12px;
+  text-decoration: none;
+  margin: 3px;
+}
+
+/* Grillaire flaticon */
+#grillaire-text #flaticon {
+  font-family: Arial;
+  color: #4fc3b6;
+  font-size: 14px;
+  font-weight: bold;
+  background: #122b39;
+  border: none;
+  border-radius: 50px;
+  padding: 5px 12px 5px 12px;
+  text-decoration: none;
+  margin: 3px;
 }
 
 /* 
@@ -251,7 +303,7 @@
 }
 
 /* Portfolio Vercel */
-#vercel {
+#portfolio-text #vercel {
   font-family: Arial;
   color: #4fc3b6;
   font-size: 14px;
@@ -263,6 +315,62 @@
   text-decoration: none;
   margin-left: 3px;
   margin-right: 3px;
+}
+
+/* Portfolio Gimp */
+#portfolio-text #gimp {
+  font-family: Arial;
+  color: #4fc3b6;
+  font-size: 14px;
+  font-weight: bold;
+  background: #122b39;
+  border: none;
+  border-radius: 50px;
+  padding: 5px 12px 5px 12px;
+  text-decoration: none;
+  margin: 3px;
+}
+
+/* Portfolio Chatgpt */
+#portfolio-text #chatgpt {
+  font-family: Arial;
+  color: #4fc3b6;
+  font-size: 14px;
+  font-weight: bold;
+  background: #122b39;
+  border: none;
+  border-radius: 50px;
+  padding: 5px 12px 5px 12px;
+  text-decoration: none;
+  margin: 3px;
+}
+
+/* Portfolio IMAGECOLORPICKER */
+#portfolio-text #imagecolorpicker {
+  font-family: Arial;
+  color: #4fc3b6;
+  font-size: 14px;
+  font-weight: bold;
+  background: #122b39;
+  border: none;
+  border-radius: 50px;
+  padding: 5px 12px 5px 12px;
+  text-decoration: none;
+  margin: 3px;
+}
+
+/* Portfolio flaticon */
+#portfolio-text #flaticon {
+  font-family: Arial;
+  color: #4fc3b6;
+  font-size: 14px;
+  font-weight: bold;
+  background: #122b39;
+  border: none;
+  border-radius: 50px;
+  padding: 5px 12px 5px 12px;
+  text-decoration: none;
+  margin: 3px;
 }
 
 /* 
