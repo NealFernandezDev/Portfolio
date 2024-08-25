@@ -8,9 +8,8 @@ function Header() {
             <h1>Neal Fernandez</h1>
             <h3>Web Developer in Training</h3>
             <p>
-                I am a quick and eager learner who enjoys trying<br/>
-                new things and isn't afraid to fail. When I do fail,<br/> 
-                I own up to it, learn, and adapt.
+                I am a quick and eager learner who isn't afraid to fail. <br/>
+                If I do fail, I own up to it, learn, and adapt.
             </p>
             <a href="https://github.com/NealFernandezDev" target="_blank" rel="noreferrer"><img src={Github} alt="Github"/></a>
         </div>

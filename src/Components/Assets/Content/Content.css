@@ -1,9 +1,17 @@
 #content {
   text-align: left;
-  width: 500px;
+  width: 575px;
   position: relative;
   top: 75px;
-  left: 1000px;
+  left: 945px;
+}
+
+#about #line {
+  position: fixed;
+  top: 313px;
+  left: 502px;
+  border-bottom: #ffffff 1px solid;
+  width: 75px;
 }
 
 #about h3 {
@@ -15,10 +23,6 @@
 
 #about h3:hover {
   color: #ffffff;
-}
-
-#about p {
-  word-wrap: break-word;
 }
 
 @media screen and (max-width: 1700px) {
@@ -33,6 +37,12 @@
     position: fixed;
     left: 550px;
   }
+
+  #about #line {
+    position: fixed;
+    top: 310px;
+    left: 452px;
+  }
 }
 
 @media screen and (max-width: 1440px) {
@@ -40,12 +50,18 @@
     position: relative;
     top: 60px;
     left: 750px;
-    width: 400px;
+    width: 500px;
   }
 
   #about h3 {
     position: fixed;
     left: 450px;
+  }
+
+  #about #line {
+    position: fixed;
+    top: 310px;
+    left: 352px;
   }
 }
 
@@ -54,12 +70,18 @@
     position: relative;
     top: 60px;
     left: 700px;
-    width: 400px;
+    width: 500px;
   }
 
   #about h3 {
     position: fixed;
     left: 300px;
+  }
+
+  #about #line {
+    position: fixed;
+    top: 310px;
+    left: 202px;
   }
 }
 
@@ -68,7 +90,7 @@
     position: relative;
     top: 60px;
     left: 600px;
-    width: 400px;
+    width: 500px;
   }
 
   #about h3 {
@@ -78,5 +100,11 @@
 
   #about:a {
     pointer-events: none;
+  }
+
+  #about #line {
+    position: fixed;
+    top: 310px;
+    left: 152px;
   }
 }
