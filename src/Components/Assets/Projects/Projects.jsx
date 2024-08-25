@@ -24,7 +24,7 @@ const Projects = () => {
                 <button id="react">React</button>
                 <button id="scss">SCSS</button>
                 <button id="javascript">JavaScript</button>
-                <button id="netlify">Netlify</button>
+                <button id="vercel">Vercel</button>
             </div>
         </div>
         <div id="portfolio-container">
