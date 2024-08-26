@@ -27,10 +27,15 @@
   top: 25px;
 }
 
-img {
+#header img {
   height: 40px;
   position: relative;
   top: 500px;
+  opacity: 0.4;
+}
+
+#header img:hover {
+  opacity: 0.8;
 }
 
 @media screen and (max-width: 1700px) {

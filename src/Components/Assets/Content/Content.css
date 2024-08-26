@@ -1,3 +1,5 @@
+/* ID of content Container */
+
 #content {
   text-align: left;
   width: 575px;
@@ -5,6 +7,8 @@
   top: 75px;
   left: 945px;
 }
+
+/* ID of line */
 
 #about #line {
   position: fixed;
@@ -14,17 +18,47 @@
   width: 75px;
 }
 
+/* ID of About Link */
+
 #about h3 {
-  color: #9c9c9c;
+  color: #e2e8f0;
   position: fixed;
   top: 300px;
   left: 600px;
 }
 
+/* About Link Text Hover */
+
 #about h3:hover {
   color: #ffffff;
 }
 
+/* Portfolio Heading Image */
+#about a img {
+  position: relative;
+  top: 5px;
+  left: 5px;
+  width: 15px;
+  height: 15px;
+}
+
+/* About Link Text Hover */
+#about a:hover {
+  color: #4fc3b6;
+}
+
+/* About Link Text Image Hover */
+#about a:hover img {
+  top: -2px;
+  left: 7px;
+  content: url(../images/north-east-hover.png);
+}
+
+/* 
+  Media Queries
+*/
+
+/* 1700px */
 @media screen and (max-width: 1700px) {
   #content {
     position: relative;
@@ -44,6 +78,8 @@
     left: 452px;
   }
 }
+
+/* 1440px */
 
 @media screen and (max-width: 1440px) {
   #content {
@@ -65,6 +101,8 @@
   }
 }
 
+/* 1366px */
+
 @media screen and (max-width: 1366px) {
   #content {
     position: relative;
@@ -84,6 +122,8 @@
     left: 202px;
   }
 }
+
+/* 1280px */
 
 @media screen and (max-width: 1280px) {
   #content {

@@ -11,7 +11,7 @@ function Header() {
                 I am a quick and eager learner who isn't afraid to fail. <br/>
                 If I do fail, I own up to it, learn, and adapt.
             </p>
-            <a href="https://github.com/NealFernandezDev" target="_blank" rel="noreferrer"><img src={Github} alt="Github"/></a>
+            <a href="https://github.com/NealFernandezDev" target="_blank" rel="noreferrer"><img  src={Github} alt="Github"/></a>
         </div>
     );
 }
