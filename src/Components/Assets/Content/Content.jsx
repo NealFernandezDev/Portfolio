@@ -27,17 +27,6 @@ const Content = () => {
               has built and then making it a working reality for others.
               <br/>
               <br/>
-              My first experience with programming was my mid teens (34 now) when there
-              was a website that allowed us to create and design our own page/guest book where friends 
-              or anyone can write on. A couple of friends and I 
-              built pages for people as well as various groups. But that ended once other different 
-              types of social media outlets came out (myspace, facebook etc.)
-              <br/>
-              <br/>
-              When I am not working on a project, I'm usually playing video games, working out,
-              watching movies, playings some sports, walking my dog or biking if the weather permits.
-              <br />
-              <br />
               <h4>
         <a href={Resume} alt="View Full Résumé" onClick={openModal}>
           View Full Résumé
