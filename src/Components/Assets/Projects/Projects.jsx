@@ -34,7 +34,6 @@ const Projects = () => {
                 <button id="javascript">JavaScript</button>
                 <button id="vercel">Vercel</button>
                 <button id="gimp">Gimp</button>
-                <button id="chatgpt">Chatgpt 3.5</button>
                 <button id="imagecolorpicker">IMAGECOLORPICKER.COM</button>
                 <button id="flaticon">flaticon.com</button>
             </div>
@@ -60,7 +59,6 @@ const Projects = () => {
                 <button id="javascript">JavaScript</button>
                 <button id="vercel">Vercel</button>
                 <button id="gimp">Gimp</button>
-                <button id="chatgpt">Chatgpt 3.5</button>
                 <button id="imagecolorpicker">IMAGECOLORPICKER.COM</button>
                 <button id="flaticon">flaticon.com</button>
             </div>
