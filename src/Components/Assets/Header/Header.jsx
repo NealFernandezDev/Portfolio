@@ -7,10 +7,6 @@ function Header() {
         <div id='header'>
             <h1>Neal Fernandez</h1>
             <h3>Web Developer in Training</h3>
-            <p>
-                I am a quick and eager learner who isn't afraid to fail. <br/>
-                If I do fail, I own up to it, learn, and adapt.
-            </p>
             <a href="https://github.com/NealFernandezDev" target="_blank" rel="noreferrer"><img  src={Github} alt="Github"/></a>
         </div>
     );

@@ -2,7 +2,7 @@ import React, {useState} from 'react';
 import './Content.css';
 import NorthEast from '../images/north-east.png';
 import PdfModal from '../PdfModal/PdfModal';
-import Resume from '../images/Neal_Fernandez_Resume_.pdf';
+import Resume from '../images/neal-fernandez-resume1.pdf';
 
 
 const Content = () => {
